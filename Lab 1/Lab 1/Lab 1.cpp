@@ -1,5 +1,6 @@
 #include <iostream>
 #include "IsPerfect.h"
+#include "IsWeird.h"
 
 using namespace std;
 
